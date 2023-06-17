@@ -17,9 +17,9 @@ A schematic diagram of the difference in feature distributions between the train
 ![](https://github.com/fengcherenxi/FedTC-pytorch/blob/main/resources/Results.png)
 # Requirements
 ```
-pytorch==1.7+cuda10.1
-torchvision==0.6.0
-numpy==1.19.5
+pytorch==1.13+cuda10.1
+torchvision==0.14.1
+numpy==1.21.5
 ```
 # Citation
 ```
